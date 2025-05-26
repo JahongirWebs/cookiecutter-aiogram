@@ -47,3 +47,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Author: Jahongir Qurbonov\
 Github: [@Jahongir-Qurbonov](https://github.com/Jahongir-Qurbonov)
 
+#
+
+Built with ❤️ for the Aiogram community
