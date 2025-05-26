@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 📬 Contact
 
 Author: Jahongir Qurbonov\
-Github: https://github.com/Jahongir-Qurbonov
+Github: [@Jahongir-Qurbonov](https://github.com/Jahongir-Qurbonov)
 
